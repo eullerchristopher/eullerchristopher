@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Meu nome é Euller Christopher, apaixonado pelo Desenvolvimento Web Front End. Sou Profissional com formação em Enfermagem e atualmente cursando um curso de tecnologia pelo Instituto Federal do Rio Grande do Norte, onde estou focado em aprimorar minhas habilidades em tecnologia.
+Meu nome é Euller Christopher, um entusiasta do Desenvolvimento Web Front-End. Profissionalmente formado em Enfermagem e atualmente estou imerso no mundo da tecnologia, cursando um curso de tecnologia pelo Instituto Federal do Rio Grande do Norte. Meu foco está em aprimorar minhas habilidades em desenvolvimento web, mergulhando em linguagens como HTML, CSS e JavaScript. Estou sempre em busca de desafios que me permitam crescer como desenvolvedor e contribuir de forma significativa para projetos inovadores.
 
 ![Euller Christopher GitHub stats](https://github-readme-stats.vercel.app/api?username=eullerchristopher&show_icons=true&theme=radical)
 
